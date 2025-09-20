@@ -77,7 +77,7 @@ void loop() {
   int device_choice = random(3);
   #endif
   if (device_choice == 0){
-    int index = random(17);
+    int index = random(2);
     #ifdef ESP_ARDUINO_VERSION_MAJOR
       #if ESP_ARDUINO_VERSION >= ESP_ARDUINO_VERSION_VAL(3, 0, 0)
           oAdvertisementData.addData(String((char*)UNKNOWN_DEVICES[index], 31));

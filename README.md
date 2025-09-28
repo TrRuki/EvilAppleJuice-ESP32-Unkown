@@ -1,3 +1,7 @@
+(a fork of [EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32))
+Added Unkown product popups (PRODUCT_PID_-8222)
+
+
 # EvilAppleJuice ESP32
 
 Spam BLE advertisements on iPhones!
